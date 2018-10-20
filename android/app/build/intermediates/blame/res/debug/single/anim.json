@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/home/kimvex/.android/build-cache/45834f3485119c3ce3862b1c27feed6ffc911793/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/kimvex/.android/build-cache/6c50ac4c2b4320937e59ff94c5cf1391455e3be3/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/home/kimvex/.android/build-cache/45834f3485119c3ce3862b1c27feed6ffc911793/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/kimvex/.android/build-cache/45834f3485119c3ce3862b1c27feed6ffc911793/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/pop.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/kimvex/.android/build-cache/6c50ac4c2b4320937e59ff94c5cf1391455e3be3/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/pop.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/kimvex/.android/build-cache/6c50ac4c2b4320937e59ff94c5cf1391455e3be3/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/kimvex/.android/build-cache/45834f3485119c3ce3862b1c27feed6ffc911793/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/kimvex/.android/build-cache/6c50ac4c2b4320937e59ff94c5cf1391455e3be3/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/kimvex/.android/build-cache/9caee745d60e048265a60746aaedd0c319925587/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/kimvex/.android/build-cache/45834f3485119c3ce3862b1c27feed6ffc911793/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/kimvex/.android/build-cache/6c50ac4c2b4320937e59ff94c5cf1391455e3be3/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/kimvex/.android/build-cache/45834f3485119c3ce3862b1c27feed6ffc911793/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/kimvex/.android/build-cache/6c50ac4c2b4320937e59ff94c5cf1391455e3be3/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]

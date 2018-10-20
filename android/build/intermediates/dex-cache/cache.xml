@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/d32e6227ac4d33beb573f27854bfeb19e0ee630c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_b8f10dc05abd135e2b8af168984d9a9c9430eac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/4573cafe877142d7f97fabcc557d3ad45a00818a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_dba5bc55a0eaf2bd64643d0f78d5a5238a192eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6e512f2fc6cc9b3dfb1f24d8e1eaf8e4ef85057a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/622637e0ff557a37a0f23b439607201b4d8353a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_5032c7b46c070506fa84c9d101529977c56ad523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/6811e8f01ed9ce081cfb56e9f3f917aed6f6109c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_06fb9a53bec00eda32682a36b6b452530a344595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/ba365cc3cb5180b9cf936f5055d045e5cf091d84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_a976d63d5fa55180dcbfa760ac1af6f6e169bbf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/e4079a7d113c37387e14e9bc0a687576a2abadaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_f3666d30ac014b140c20f0838857f4f80b2a24c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/4079312e722df18b06d57e9fefa2f59e8c57f4c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_4522322f598e604c2402c8f1178597bd43c4e373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_94da0634bd46cd302d7499582d80ff4f008633fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_6a88191163957842c21f113abbe1f3f8cfa27055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e188dd81dc79599c06fa72d1f06f7e4c5182e049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/cfa319d03375c6c5d84dff6721ea8e4cb3020c69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_cd5f04dc0b8fd9f4775c9a1846e970824db39dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/392a2ecfc22e3a48f71d4b31e5f6362c996adf36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_0513d1eb165cd76c779c444c1834fb065393a8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/dbc15cf0c7b20a4bfb0bc36842825ec04067e808/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_8a2a82a7b092647ea339f07be26bbf52d6e5dcde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9ad971a55896e46b59aaf376fba4618d678cb189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_74615016b74624ef47daece53f151933010c96a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_8db1d3d01a47a2bb8d22bbfdef92df1ac06a4f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/73fcd548e3ee48027f46e13ef86b8d90be5b4985/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_6e190ef9cf549f6f65a86944d512700bd92893bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/Documents/ReactNative/UberReact/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5ad1e03329267d744fb4dfdc6a9ae799f00a622c">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_6c7bcb656298c5d15e4f90b27ab8e3cd5b781447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/9526af3cef42dc809712ca83e238134ef6939e97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_8609469e43be0800cbc5e449b514231ea035ab89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_9ef11c821184f2d0ff1cfaba4eeed50330a69548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_c8ea2a460e68e6069ed70bf12c17305e0d3f0a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9044a8c16e40e439a81793853c1831fe11710b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/700cf5d216729a7eee5401b31e91747159205402/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_b0dd02ebe10d12f36a0923c5634ff35564388d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/11d9566e144ccf5e46d908344e8440231bda263c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_f735cccba4a756faef5c170db5110ac5b1f1e29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/950e1feafab65406aad0fa5ceafe7af10c9b4cc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_44acbd35b6045f8e1155cba150dc174384e70057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/67d482c98054be2d9937c6399539166e64f03cb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_d06f75a24bbec03fdbfbe02f1469a8cce43cd32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/f05a54b044d4b1a648f91bc6301afad304549a17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_6b75ba1fbef7670392a48e98b60b3de70f7f429b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/58afdcc42be4d16462beb814aa1956b872a4c898/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_84c32bb3bdb592a4c6e2d08eb098e74ccdde84b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_843ee6ca46e493a98f47284180e2393c385529fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_4f07eba15999177a4276a8bcb98b44828c036c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/0115982b3fada68b7a68427b0b9b8f3c13b6c665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_a14290cdbc5719de9fa3cbcd728405f34cae213d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/8f83ee16be98b42f11bb1382345f03cd1c1c896d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_d40b3dab9977707e227562a1c912b04e0c30fd12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/86b19ca774ffdf006e8b33bbcf19404f33ea8da1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_3fda6533ac2ae2cb0d2ebfb63b63d919efd1cd1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/75383928ef23731c337ab5ea8fb45e5adf4bb88e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_7df922651e04450b254a454bbbc7ea721deca5d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/478d7f6f71e5e5d5b445dcb68b2205f7cafefff0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_33867e396c830b193a1f05f6021bee3c6c3dcc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_f389f57f84d6eb070a5fbf442e79ccdec31bdea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_4994eb3ae7327133942e32f8134a764345efab43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andres/.android/build-cache/9f176cb3bae8608fcb33965d12417e8c42372518/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/pre-dexed/debug/classes_c3d33b1d821b2192d45bb3a7f5eecac386f2cb78.jar" />
+    </item>
+
+</items>

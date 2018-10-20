@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/andres/Documents/ReactNative/UberReact/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/kimvex/Documentos/React-native/UberReact/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

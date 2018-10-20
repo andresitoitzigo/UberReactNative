@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kimvex/Documentos/React-native/UberReact/android/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/kimvex/.android/build-cache/6c50ac4c2b4320937e59ff94c5cf1391455e3be3/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/andres/Documents/ReactNative/UberReact/android/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/andres/.android/build-cache/731997413ca25d0737926e54f7cb8687a21a06ad/output/res/animator-v21/design_appbar_state_list_animator.xml"
+    }
+]
