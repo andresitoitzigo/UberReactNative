@@ -30,7 +30,7 @@ export default class Login extends Component {
                 >
                     <View style={styles.logocontent}>
                         <View style={styles.logo}>
-                            <Text style={styles.logoText}>UBERSITO</Text>
+                            <Text style={styles.logoText}>UBER</Text>
                         </View>
                     </View>
                     <View style={styles.cont}>
@@ -53,7 +53,7 @@ export default class Login extends Component {
                         <TouchableHighlight style={styles.social}
                             onPress={this.socialLogin}
                         >
-                        <Text style={styles.socialText} >Conectate con una Red Social</Text>
+                        <Text style={styles.socialText} >Login con Facebook</Text>
                 
                         </TouchableHighlight>   
                     </View>
